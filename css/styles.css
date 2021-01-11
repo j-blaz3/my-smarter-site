@@ -20,3 +20,7 @@ p.important {
 .emphasized {
 	font-style: italic;
 }
+
+.standout {
+	color: #cc0000;
+}
