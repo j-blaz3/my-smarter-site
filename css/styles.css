@@ -24,3 +24,9 @@ p.important {
 .standout {
 	color: #cc0000;
 }
+
+p.more-readable {
+	letter-spacing: .1em;
+	word-spacing: 1em;
+	line-height: 2em;
+}
