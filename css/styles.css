@@ -38,3 +38,12 @@ h3 {
 p.pretty {
 	text-align: justify;
 }
+
+p.indented {
+	text-indent: 1em;
+}
+
+blockquote {
+	font-size: .9em;
+	color: darkslategray;
+}
