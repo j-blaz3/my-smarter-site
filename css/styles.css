@@ -30,3 +30,11 @@ p.more-readable {
 	word-spacing: 1em;
 	line-height: 2em;
 }
+
+h3 {
+	text-align: center;
+}
+
+p.pretty {
+	text-align: justify;
+}
