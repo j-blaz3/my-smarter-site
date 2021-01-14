@@ -54,4 +54,5 @@ p.offset {
 
 .boxed {
 	border: 5px solid blueviolet;
+	padding: .9em;
 }
