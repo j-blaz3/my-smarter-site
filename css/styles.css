@@ -51,3 +51,7 @@ blockquote {
 p.offset {
 	margin: 4em;
 }
+
+.boxed {
+	border: 5px solid blueviolet;
+}
