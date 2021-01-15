@@ -69,3 +69,7 @@ div#main {
 	margin: 0 3em 0 3em;
 	font-family: Arial, Helvetica, sans-serif;
 }
+
+img.owns-its-own-line {
+	display: block;
+}
