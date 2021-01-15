@@ -56,3 +56,8 @@ p.offset {
 	border: 5px solid blueviolet;
 	padding: .9em;
 }
+
+h4, p.centered {
+	text-align: center;
+}
+
