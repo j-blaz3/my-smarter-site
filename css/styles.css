@@ -73,3 +73,8 @@ div#main {
 img.owns-its-own-line {
 	display: block;
 }
+
+img.inset {
+	display: block;
+	margin-left: 1em;
+}
